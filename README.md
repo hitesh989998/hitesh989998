@@ -27,7 +27,7 @@ I love turning ideas into functional, high-performing applications that solve re
 ---
 
 ## 🌱 Currently Exploring  
-- **Advanced React Patterns**: Mastering React design patterns such as compound components, HOCs, and custom hooks for scalable architecture, while using TanStack Query for advanced data fetching, caching, and state synchronization to enhance performance and reliability.
+- **Three.js**: Pushing the limits of interactive 3D graphics, integrating real-time rendering with React for immersive, data-driven visual experiences in web applications.
 - **Next.js**: Implementing advanced Next.js architecture with full static site generation (SSG), API routes at scale, edge caching, and hybrid rendering strategies for optimized performance and SEO.  
 ---
 
@@ -36,4 +36,6 @@ I love turning ideas into functional, high-performing applications that solve re
 I’m always up for collaborating on exciting projects or discussing new opportunities. Let’s connect!  
 
 - 📧 Email: [hitesh989998@gmail.com](mailto:hitesh989998@gmail.com)  
-- 💼 LinkedIn: [Hitesh Lalwani](https://www.linkedin.com/in/hiteshlalwani)  
+- 💼 LinkedIn: [Hitesh Lalwani](https://www.linkedin.com/in/hitesh-lalwani989998/)
+
+Check out my work on my [Portfolio](https://hiteshfullstackdev.web.app/)  <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio Icon"/>
