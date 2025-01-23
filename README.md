@@ -38,4 +38,4 @@ I’m always up for collaborating on exciting projects or discussing new opportu
 - 📧 Email: [hitesh989998@gmail.com](mailto:hitesh989998@gmail.com)  
 - 💼 LinkedIn: [Hitesh Lalwani](https://www.linkedin.com/in/hitesh-lalwani989998/)
 
-Check out my work on my [Portfolio](https://hiteshfullstackdev.web.app/)  <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio Icon"/>
+Check out my work on my [Portfolio](https://hiteshfullstackdev.web.app/)
