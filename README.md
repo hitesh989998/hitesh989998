@@ -22,7 +22,7 @@ I'm a Full Stack Developer with expertise in building modern, scalable web appli
 
 ## 🌍 Why I Do What I Do  
 
-I love turning ideas into functional, high-performing applications that solve real-world problems. Whether it’s building an intuitive user interface or designing an API that just works, I focus on clean, scalable code that stand the test of time.
+I love turning ideas into functional, high-performing applications that solve real-world problems. Whether it’s building an intuitive user interface or designing an API that just works, I focus on clean, scalable code that stands the test of time.
 
 ---
 
