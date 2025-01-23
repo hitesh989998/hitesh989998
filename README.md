@@ -7,11 +7,10 @@ I'm a Full Stack Developer with expertise in building modern, scalable web appli
 ## 🛠️ What I Bring to the Table  
 
 ### **Frontend Development**  
-- **React.js & React Hooks**: Crafting dynamic, responsive user interfaces with clean and maintainable code.  
+- **React.js**: Crafting dynamic, responsive user interfaces with clean and maintainable code.  
 - **Redux Toolkit & Redux-Saga**: Making state management smooth and predictable in complex apps.  
-- **Tailwind CSS & Styled-Components**: Designing modern, responsive interfaces that look and work great across devices.  
+- **Tailwind CSS**: Designing modern, responsive interfaces that look and work great across devices.  
 - **WebSockets (Socket.IO)**: Adding real-time communication features like live updates and interactive user experiences.  
-- **Testing (Jest & React Testing Library)**: Ensuring reliability with thorough testing and a focus on quality.
 
 ### **Backend Development**  
 - **Node.js & Express.js**: Creating fast, scalable APIs and backend systems to handle high-traffic applications.  
