@@ -1,6 +1,6 @@
 # Hi, I'm Hitesh Lalwani
 
-I'm a Full Stack Developer with expertise in building modern, scalable web applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and a knack for solving complex problems. I work across the entire development lifecycle, from crafting sleek UIs to designing rock-solid backends, ensuring everything runs smoothly and efficiently.
+I'm a Full Stack Developer with expertise in building modern, scalable web applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and a knack for solving complex problems. I work across the entire development lifecycle, from crafting sleek UIs to designing rock-solid backends, ensuring everything runs like clockwork.
 
 ---
 
@@ -22,7 +22,7 @@ I'm a Full Stack Developer with expertise in building modern, scalable web appli
 
 ## 🌍 Why I Do What I Do  
 
-I love turning ideas into functional, high-performing applications that solve real-world problems. Whether it’s building an intuitive user interface or designing an API that just works, I focus on clean, scalable solutions that stand the test of time.
+I love turning ideas into functional, high-performing applications that solve real-world problems. Whether it’s building an intuitive user interface or designing an API that just works, I focus on clean, scalable code that stand the test of time.
 
 ---
 
@@ -38,4 +38,4 @@ I’m always up for collaborating on exciting projects or discussing new opportu
 - 📧 Email: [hitesh989998@gmail.com](mailto:hitesh989998@gmail.com)  
 - 💼 LinkedIn: [Hitesh Lalwani](https://www.linkedin.com/in/hitesh-lalwani989998/)
 
-Check out my work on my [Portfolio](https://hiteshfullstackdev.web.app/)
+Check out my work on my [Portfolio](https://hiteshfullstackdev.web.app/).
