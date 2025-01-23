@@ -8,7 +8,6 @@ I'm a Full Stack Developer with expertise in building modern, scalable web appli
 
 ### **Frontend Development**  
 - **React.js & React Hooks**: Crafting dynamic, responsive user interfaces with clean and maintainable code.  
-- **TanStack (React Query)**: Handling server-side state and data fetching like a pro—fast and reliable for any scale.  
 - **Redux Toolkit & Redux-Saga**: Making state management smooth and predictable in complex apps.  
 - **Tailwind CSS & Styled-Components**: Designing modern, responsive interfaces that look and work great across devices.  
 - **WebSockets (Socket.IO)**: Adding real-time communication features like live updates and interactive user experiences.  
@@ -23,7 +22,7 @@ I'm a Full Stack Developer with expertise in building modern, scalable web appli
 
 ## 🌍 Why I Do What I Do  
 
-I love turning ideas into functional, high-performing applications that solve real-world problems. Whether it’s building an intuitive user interface or designing an API that just works, I focus on clean, scalable solutions that stand the test of time. My goal is to stay ahead of the curve, leveraging the latest tools and techniques to deliver projects that are both reliable and future-ready.
+I love turning ideas into functional, high-performing applications that solve real-world problems. Whether it’s building an intuitive user interface or designing an API that just works, I focus on clean, scalable solutions that stand the test of time.
 
 ---
 
