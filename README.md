@@ -4,7 +4,7 @@ I’m a Full Stack Developer at Quest Digiflex, specializing in JavaScript, the 
 
 ---
 
-## 🧩 My Tech Stack  
+## My Tech Stack  
 
 ### **Frontend Development**  
 - **React.js** + **Next.js** with **Tailwind CSS** and **Redux Toolkit**
