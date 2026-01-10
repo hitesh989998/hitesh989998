@@ -1,22 +1,39 @@
 # Hi, I'm Hitesh Lalwani
 
-I’m a Full Stack Developer at Quest Digiflex, specializing in JavaScript, the MERN Stack (MongoDB, Express.js, React.js, Node.js), and the T3 Stack (Next.js, tRPC, Prisma, TypeScript, Tailwind CSS).
+I’m a Full Stack Developer at Quest Digiflex, building scalable frontend and backend systems using JavaScript/TypeScript. I primarily work with the MERN stack, Next.js, and microservices-based architectures, with a strong focus on performance, maintainability, and clean system design.
 
 ---
 
-## My Tech Stack  
+## My Tech Stack
 
-### **Frontend Development**  
-- **React.js** + **Next.js** with **Tailwind CSS** and **Redux Toolkit**
+### Frontend Development
+- React.js, Next.js
+- Redux Toolkit, TanStack Query
+- Tailwind CSS
+- Progressive Web Apps (PWA)
+- React Snap (static pre-rendering for SEO)
 
-### **Full-Stack / Integration**  
-- **tRPC** – End-to-end type-safe communication between client and server  
-- **Firebase** – Authentication, hosting, and serverless integrations  
+### Backend & Architecture
+- Node.js, Express.js, NestJS
+- REST APIs, GraphQL
+- Microservices architecture
+- Monorepo setup using Turborepo
 
-### **Backend Development**  
-- **Node.js** & **Express.js** – Fast, scalable REST APIs  
-- **MongoDB** & **Mongoose** – Flexible document-based database design  
-- **PostgreSQL** & **Prisma** – Type-safe relational database management  
+### Databases & Caching
+- MongoDB, Mongoose
+- PostgreSQL with Prisma ORM
+- Redis
+
+### Real-Time, AI & Messaging
+- Socket.IO, WebSockets
+- Apache Kafka
+- OpenAI APIs, AI microservices
+
+### DevOps, Auth & Observability
+- Docker, Kubernetes, AWS
+- Keycloak, OAuth
+- Kong API Gateway
+- GitHub, Sentry, Prometheus
 
 ---
 
