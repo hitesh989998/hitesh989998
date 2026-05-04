@@ -36,12 +36,3 @@ I’m a Full Stack Developer at Quest Digiflex, building scalable frontend and b
 - GitHub, Sentry, Prometheus
 
 ---
-
-## Connect with me
-
-I’m always up for collaborating on exciting projects or discussing new opportunities. Let’s connect!  
-
-- 📧 Email: [hitesh989998@gmail.com](mailto:hitesh989998@gmail.com)  
-- 💼 LinkedIn: [Hitesh Lalwani](https://www.linkedin.com/in/hitesh-lalwani989998/)
-
-Check out my work on my [Portfolio](https://hiteshfullstackdev.web.app/).
