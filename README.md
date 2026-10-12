@@ -1,6 +1,6 @@
 # Hi, I'm Hitesh Lalwani
 
-I’m a Full Stack Developer at Quest Digiflex, building scalable frontend and backend systems using JavaScript/TypeScript. I primarily work with the MERN stack, Next.js, and microservices-based architectures, with a strong focus on performance, maintainability, and clean system design.
+I’m a Full Stack Developer building scalable frontend and backend systems using JavaScript/TypeScript. I primarily work with the MERN stack, Next.js, and microservices-based architectures, with a strong focus on performance, maintainability, and clean system design.
 
 ---
 
